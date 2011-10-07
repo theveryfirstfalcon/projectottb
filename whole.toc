@@ -1,4 +1,5 @@
-\contentsline {part}{I\hspace {1em}In the Arms of California}{5}{part.1}
-\contentsline {part}{II\hspace {1em}The District}{11}{part.2}
-\contentsline {part}{III\hspace {1em}America the Beautiful}{13}{part.3}
-\contentsline {part}{IV\hspace {1em}--INFORMATION--}{15}{part.4}
+\contentsline {part}{I\hspace {1em}In California's Arms}{5}
+\contentsline {part}{II\hspace {1em}The District}{15}
+\contentsline {part}{III\hspace {1em}Breaking Free}{17}
+\contentsline {part}{IV\hspace {1em}America the Beautiful}{19}
+\contentsline {part}{V\hspace {1em}INFORMATION}{23}
